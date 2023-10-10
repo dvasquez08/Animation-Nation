@@ -1278,8 +1278,13 @@ let cards = [
   },
   {
     artName: 'HappyCat',
+<<<<<<< HEAD
     pageLink: './Art/MathDevWeb/dave.html',
     imageLink: './Art/MathDevWeb/happy-cat.gif',
+=======
+    pageLink: './Art/dvasquez08/dave.html',
+    imageLink: './Art/dvasquez08/happy-cat.gif',
+>>>>>>> ebdddc2b1e2683de24c8390bc0c35c8948b13bed
     author: 'David Vasquez',
     githubLink: 'https://github.com/dvasquez08'
   }
